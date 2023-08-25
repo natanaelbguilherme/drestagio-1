@@ -104,7 +104,7 @@ export function About() {
           <div className="infoAbout">
             <h1>Nossa Proposta</h1>
             <p>
-            Contar com estagiários no dia a dia tem muitos benefícios,isso porque eles tem maior flexibilidade e adaptabilidade para aprender
+              Contar com estagiários no dia a dia tem muitos benefícios,isso porque eles tem maior flexibilidade e adaptabilidade para aprender
               e exercitar diversas tarefas nos salões onde as demandas podem variar ao longo do dia. A Dr.Estágio é facilitador contratação de 
               estágio fazendo todo o processo burocrático do estágio desde a divulgação das vagas, emissão dos termos de estágio, seguro de vida,
               suporte e acompanhamento. Auxiliamos sua equipe de RH em todo processo, garantindo assim mais produtividade e gestão de tempo.
