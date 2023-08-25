@@ -25,7 +25,7 @@ export function Vagas () {
         <h1>Vagas de Estágio</h1>
         <hr />
         <p>
-        Somos uma agência de integração empresa-escola especializada em estágios não obrigatórios. 
+        Somos um agente de integração empresa-escola especializada em estágios não obrigatórios. 
         Em parceria com instituições de ensino, desenvolvemos um programa de estágio para atender às necessidades de 
         empresas em busca de novos talentos, proporcionando oportunidades valiosas para jovens ingressarem no 
         mercado de trabalho ou se recolocarem profissionalmente.
